@@ -11,6 +11,10 @@
 	<col1 item-list="true">	<item datasource="childComponents">	<value>Shared Rich Text 3</value>
 	<key>/site/component/item/5b71/5b711d81-edda-957f-f485-96be2f750748/84137478-e6a0-e2a7-1227-0d59fd1c8abf.xml</key>
 	<include>/site/component/item/5b71/5b711d81-edda-957f-f485-96be2f750748/84137478-e6a0-e2a7-1227-0d59fd1c8abf.xml</include>
+	</item>	<item datasource="pageComponents">	<value>Shared 4</value>
+	<key>/site/component/item/5b71/5b711d81-edda-957f-f485-96be2f750748/21c976ae-0077-bb1f-f97a-347b690e5e85.xml</key>
+	<include>/site/component/item/5b71/5b711d81-edda-957f-f485-96be2f750748/21c976ae-0077-bb1f-f97a-347b690e5e85.xml</include>
+	<disableFlattening>false</disableFlattening>
 	</item></col1>
 	<createdDate>2019-11-23T19:28:54.437Z</createdDate>
 	<createdDate_dt>2019-11-23T19:28:54.437Z</createdDate_dt>

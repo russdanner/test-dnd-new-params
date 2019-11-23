@@ -42,10 +42,6 @@
 	<key>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/b3a125f7-56e3-a4e1-0f11-6385cbd2d99a.xml</key>
 	<include>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/b3a125f7-56e3-a4e1-0f11-6385cbd2d99a.xml</include>
 	<disableFlattening>false</disableFlattening>
-	</item>	<item datasource="pageComponents">	<value>Shared 4</value>
-	<key>/site/component/item/5b71/5b711d81-edda-957f-f485-96be2f750748/21c976ae-0077-bb1f-f97a-347b690e5e85.xml</key>
-	<include>/site/component/item/5b71/5b711d81-edda-957f-f485-96be2f750748/21c976ae-0077-bb1f-f97a-347b690e5e85.xml</include>
-	<disableFlattening>false</disableFlattening>
 	</item>	<item datasource="embeddedComponents" inline="true">	<key>d0dd5c6b-ba97-b6ac-3b55-1abf5dc2f012</key>
 	<value>Embedded 2</value>
 <component id="d0dd5c6b-ba97-b6ac-3b55-1abf5dc2f012">

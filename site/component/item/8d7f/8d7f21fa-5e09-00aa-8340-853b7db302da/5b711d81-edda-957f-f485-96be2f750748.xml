@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/main</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5b71</objectGroupId>
+	<objectId>5b711d81-edda-957f-f485-96be2f750748</objectId>
+	<file-name>5b711d81-edda-957f-f485-96be2f750748.xml</file-name>
+	<internal-name>Drop Zone</internal-name>
+	<col1 item-list="true"/>
+	<createdDate>2019-11-23T19:28:54.437Z</createdDate>
+	<createdDate_dt>2019-11-23T19:28:54.437Z</createdDate_dt>
+	<lastModifiedDate>2019-11-23T19:28:54.437Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-23T19:28:54.437Z</lastModifiedDate_dt>
+</component>

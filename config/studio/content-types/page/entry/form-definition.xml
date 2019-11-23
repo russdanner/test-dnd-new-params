@@ -163,7 +163,7 @@
 						</property>
 						<property>
 							<name>itemManager</name>
-							<value>pageComponents</value>
+							<value>pageComponents,embeddedComponents</value>
 							<type>datasource:item</type>
 						</property>
 						<property>
@@ -221,6 +221,19 @@
 						</property>
 						<property>
 							<name>type</name>
+							<value></value>
+								<type>undefined</type>
+						</property>
+					</properties>
+				</datasource>
+				<datasource>
+					<type>embedded-content</type>
+					<id>embeddedComponents</id>
+					<title>Embedded Components</title>
+					<interface>item</interface>
+					<properties>
+						<property>
+							<name>contentType</name>
 							<value></value>
 								<type>undefined</type>
 						</property>

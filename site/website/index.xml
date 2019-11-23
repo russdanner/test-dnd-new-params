@@ -16,25 +16,7 @@
 	<lastModifiedDate>2019-11-23T19:39:24.382Z</lastModifiedDate>
 	<lastModifiedDate_dt>2019-11-23T19:39:24.382Z</lastModifiedDate_dt>
 	<disabled>false</disabled>
-	<col1 item-list="true">	<item datasource="embeddedComponents" inline="true">	<key>1c5280d9-f67f-d477-f9f8-8c0000d6a234</key>
-	<value>Rich Text (Embedded)</value>
-	<disableFlattening>false</disableFlattening>
-<component id="1c5280d9-f67f-d477-f9f8-8c0000d6a234">
-	<content-type>/component/rich-text</content-type>
-	<display-template/>
-	<no-template-required/>
-	<merge-strategy>inherit-levels</merge-strategy>
-	<objectGroupId>1c52</objectGroupId>
-	<objectId>1c5280d9-f67f-d477-f9f8-8c0000d6a234</objectId>
-	<file-name>1c5280d9-f67f-d477-f9f8-8c0000d6a234.xml</file-name>
-	<internal-name>Rich Text (Embedded)</internal-name>
-	<copy>&lt;p&gt;&lt;span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;"&gt;Embedded &lt;/span&gt;Rich Text&lt;/p&gt;</copy>
-	<createdDate>2019-11-23T18:54:02.730Z</createdDate>
-	<createdDate_dt>2019-11-23T18:54:02.730Z</createdDate_dt>
-	<lastModifiedDate>2019-11-23T19:20:44.550Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-11-23T19:20:44.550Z</lastModifiedDate_dt>
-</component>
-	</item>	<item datasource="childComponents">	<value>Shared Rich Text 0</value>
+	<col1 item-list="true">	<item datasource="childComponents">	<value>Shared Rich Text 0</value>
 	<key>/site/component/item/4703/4703425b-84eb-ae39-9a52-9cca934c5715/3b7d3825-4f29-9e16-383e-4023405ed3c6.xml</key>
 	<include>/site/component/item/4703/4703425b-84eb-ae39-9a52-9cca934c5715/3b7d3825-4f29-9e16-383e-4023405ed3c6.xml</include>
 	<disableFlattening>false</disableFlattening>
@@ -58,6 +40,24 @@
 	<createdDate_dt>2019-11-23T19:39:25.007Z</createdDate_dt>
 	<lastModifiedDate>2019-11-23T19:39:25.007Z</lastModifiedDate>
 	<lastModifiedDate_dt>2019-11-23T19:39:25.007Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="embeddedComponents" inline="true">	<key>1c5280d9-f67f-d477-f9f8-8c0000d6a234</key>
+	<value>Rich Text (Embedded)</value>
+	<disableFlattening>false</disableFlattening>
+<component id="1c5280d9-f67f-d477-f9f8-8c0000d6a234">
+	<content-type>/component/rich-text</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1c52</objectGroupId>
+	<objectId>1c5280d9-f67f-d477-f9f8-8c0000d6a234</objectId>
+	<file-name>1c5280d9-f67f-d477-f9f8-8c0000d6a234.xml</file-name>
+	<internal-name>Rich Text (Embedded)</internal-name>
+	<copy>&lt;p&gt;&lt;span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;"&gt;Embedded &lt;/span&gt;Rich Text&lt;/p&gt;</copy>
+	<createdDate>2019-11-23T18:54:02.730Z</createdDate>
+	<createdDate_dt>2019-11-23T18:54:02.730Z</createdDate_dt>
+	<lastModifiedDate>2019-11-23T19:20:44.550Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-23T19:20:44.550Z</lastModifiedDate_dt>
 </component>
 	</item>	<item datasource="pageComponents">	<value>Drop Zone</value>
 	<key>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/5b711d81-edda-957f-f485-96be2f750748.xml</key>

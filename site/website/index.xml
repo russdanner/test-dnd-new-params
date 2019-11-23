@@ -42,5 +42,8 @@
 	<key>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/b3a125f7-56e3-a4e1-0f11-6385cbd2d99a.xml</key>
 	<include>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/b3a125f7-56e3-a4e1-0f11-6385cbd2d99a.xml</include>
 	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="pageComponents">	<value>Drop Zone</value>
+	<key>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/5b711d81-edda-957f-f485-96be2f750748.xml</key>
+	<include>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/5b711d81-edda-957f-f485-96be2f750748.xml</include>
 	</item></col1>
 </page>

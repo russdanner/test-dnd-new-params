@@ -8,7 +8,11 @@
 	<objectId>4703425b-84eb-ae39-9a52-9cca934c5715</objectId>
 	<file-name>4703425b-84eb-ae39-9a52-9cca934c5715.xml</file-name>
 	<internal-name>Drop Zone</internal-name>
-	<col1 item-list="true">	<item datasource="childComponents">	<value>Rich Text New 1</value>
+	<col1 item-list="true">	<item datasource="pageComponents">	<value>Rich Text New 2</value>
+	<key>/site/component/item/4703/4703425b-84eb-ae39-9a52-9cca934c5715/6822155a-d767-34e6-b613-6399130a4bfd.xml</key>
+	<include>/site/component/item/4703/4703425b-84eb-ae39-9a52-9cca934c5715/6822155a-d767-34e6-b613-6399130a4bfd.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="childComponents">	<value>Rich Text New 1</value>
 	<key>/site/component/item/4703/4703425b-84eb-ae39-9a52-9cca934c5715/3b7d3825-4f29-9e16-383e-4023405ed3c6.xml</key>
 	<include>/site/component/item/4703/4703425b-84eb-ae39-9a52-9cca934c5715/3b7d3825-4f29-9e16-383e-4023405ed3c6.xml</include>
 	<disableFlattening>false</disableFlattening>

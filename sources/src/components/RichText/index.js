@@ -1,17 +1,13 @@
 import React from 'react';
 import PropTypes from 'prop-types';
+import { useICE } from '../../services/util';
 
 const RichText = props => (
-  <div className={props.classes} 
-  data-studio-component-path={props.cmsId} 
-  data-studio-component={props.cmsId}
-  data-studio-ice-path={props.cmsId}
-  data-studio-ice="" >
-    <div
-      dangerouslySetInnerHTML={{
-        __html: props.copy
-      }}
-    />
+  <div
+    className={props.classes}
+    { ...useICE({ path: props.cmsId, modelId: props.objectId }).props }
+  >
+    <div dangerouslySetInnerHTML={{ __html: props.copy }} />
   </div>
 );
 

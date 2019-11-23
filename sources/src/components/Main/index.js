@@ -1,24 +1,25 @@
 import React from 'react';
 import DynamicComponent from '../DynamicComponent';
+import { useDropZone, useICE } from '../../services/util';
 
-const Main = (props) => {
-  return (
-    <div
-      data-studio-ice=""
-      data-studio-ice-path={props.cmsId}
-      data-studio-component={props.cmsId}
-      data-studio-component-path={props.cmsId}
+const Main = (props) => (
+  <div
+    {...useICE({ path: props.cmsId, modelId: props.objectId }).props}
+  >
+    <main
+      {
+        ...useDropZone({
+          path: props.cmsId,
+          modelId: props.objectId,
+          zoneName: 'col1',
+          contentType: '/component/main'
+        }).props
+      }
     >
-      <main
-        data-studio-components-target="col1"
-        data-studio-components-objectid={props.objectId}
-        data-studio-zone-content-type="/component/main"
-      >
-        <DynamicComponent items={props.col1.item}/>
-      </main>
-    </div>
-  );
-};
+      <DynamicComponent items={props.col1.item}/>
+    </main>
+  </div>
+);
 
 
 export default Main;

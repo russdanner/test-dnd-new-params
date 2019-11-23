@@ -21,41 +21,44 @@
     </config>
 -->
 <config>
-    <category>
-        <label>General</label>
-            <component>
-                <label>Rich Text</label>
-                <type>/component/rich-text</type>
-                <path>/site/component/item/{objectGroupId}/{objectId}</path>
-            </component>
-        </category>    
-        
-        <category>
-        <label>Store App Elements</label>
-            <component>
-                <label>Float Cart</label>
-                <type>/component/floatcart</type>
-                <path>/site/component/item/{objectGroupId}/{objectId}</path>
-            </component>
-            <component>
-                <label>Github Corner</label>
-                <type>/component/githubcorner</type>
-                <path>/site/component/item/{objectGroupId}/{objectId}</path>
-            </component>
-             <component>
-                <label>Shelf</label>
-                <type>/component/shelf</type>
-                <path>/site/component/item/{objectGroupId}/{objectId}</path>
-            </component>
-             <component>
-                <label>Filter</label>
-                <type>/component/filter</type>
-                <path>/site/component/item/{objectGroupId}/{objectId}</path>
-            </component>
-            <component>
-                <label>Main</label>
-                <type>/component/main</type>
-                <path>/site/component/item/{objectGroupId}/{objectId}</path>
-            </component>
-    </category>
+  <category>
+    <label>General</label>
+    <component>
+      <label>Shared Rich Text</label>
+      <type>/component/rich-text</type>
+      <path>/site/component/item/{objectGroupId}/{objectId}</path>
+    </component>
+    <component>
+      <label>Embedded Rich Text</label>
+      <type>/component/rich-text</type>
+    </component>
+  </category>
+  <category>
+    <label>Store App Elements</label>
+    <component>
+      <label>Float Cart</label>
+      <type>/component/floatcart</type>
+      <path>/site/component/item/{objectGroupId}/{objectId}</path>
+    </component>
+    <component>
+      <label>Github Corner</label>
+      <type>/component/githubcorner</type>
+      <path>/site/component/item/{objectGroupId}/{objectId}</path>
+    </component>
+    <component>
+      <label>Shelf</label>
+      <type>/component/shelf</type>
+      <path>/site/component/item/{objectGroupId}/{objectId}</path>
+    </component>
+    <component>
+      <label>Filter</label>
+      <type>/component/filter</type>
+      <path>/site/component/item/{objectGroupId}/{objectId}</path>
+    </component>
+    <component>
+      <label>Main</label>
+      <type>/component/main</type>
+      <path>/site/component/item/{objectGroupId}/{objectId}</path>
+    </component>
+  </category>
 </config>

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<page><parsererror xmlns="http://www.w3.org/1999/xhtml" style="display: block; white-space: pre; border: 2px solid #c77; padding: 0 1em 0 1em; margin: 1em; background-color: #fdd; color: black"><h3>This page contains the following errors:</h3><div style="font-family:monospace;font-size:12px">error on line 44 at column 19: StartTag: invalid element name
-</div><h3>Below is a rendering of the page up to the first error.</h3></parsererror>
+<page>
 	<content-type>/page/entry</content-type>
 	<display-template>/templates/web/entry.ftl</display-template>
 	<merge-strategy>inherit-levels</merge-strategy>
@@ -14,8 +13,8 @@
 	<folder-name/>
 	<createdDate>2017-1-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2019-11-23T19:20:43.740Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-11-23T19:20:43.740Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-11-23T19:27:46.927Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-23T19:27:46.927Z</lastModifiedDate_dt>
 	<disabled>false</disabled>
 	<col1 item-list="true">	<item datasource="embeddedComponents" inline="true">	<key>1c5280d9-f67f-d477-f9f8-8c0000d6a234</key>
 	<value>Rich Text (Embedded)</value>
@@ -35,7 +34,7 @@
 	<lastModifiedDate>2019-11-23T19:20:44.550Z</lastModifiedDate>
 	<lastModifiedDate_dt>2019-11-23T19:20:44.550Z</lastModifiedDate_dt>
 </component>
-	</item>	<item datasource="childComponents">	<value>Shared Rich Text New 0</value>
+	</item>	<item datasource="childComponents">	<value>Shared Rich Text 0</value>
 	<key>/site/component/item/4703/4703425b-84eb-ae39-9a52-9cca934c5715/3b7d3825-4f29-9e16-383e-4023405ed3c6.xml</key>
 	<include>/site/component/item/4703/4703425b-84eb-ae39-9a52-9cca934c5715/3b7d3825-4f29-9e16-383e-4023405ed3c6.xml</include>
 	<disableFlattening>false</disableFlattening>
@@ -43,4 +42,9 @@
 	<key>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/b3a125f7-56e3-a4e1-0f11-6385cbd2d99a.xml</key>
 	<include>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/b3a125f7-56e3-a4e1-0f11-6385cbd2d99a.xml</include>
 	<disableFlattening>false</disableFlattening>
-	</item>	<item>	</item></col1></page>
+	</item>	<item datasource="pageComponents">	<key>/site/components/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/2b369260-fae0-6eb4-0151-ea421ef3904b.xml</key>
+	<value>App Main</value>
+	<include>/site/components/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/2b369260-fae0-6eb4-0151-ea421ef3904b.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></col1>
+</page>

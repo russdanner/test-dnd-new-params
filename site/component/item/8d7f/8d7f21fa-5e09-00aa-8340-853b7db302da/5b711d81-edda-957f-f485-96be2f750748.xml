@@ -2,7 +2,7 @@
 <component>
 	<content-type>/component/main</content-type>
 	<display-template/>
-	<no-template-required/>
+	<no-template-required>true</no-template-required>
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>5b71</objectGroupId>
 	<objectId>5b711d81-edda-957f-f485-96be2f750748</objectId>
@@ -12,9 +12,26 @@
 	<key>/site/component/item/5b71/5b711d81-edda-957f-f485-96be2f750748/21c976ae-0077-bb1f-f97a-347b690e5e85.xml</key>
 	<include>/site/component/item/5b71/5b711d81-edda-957f-f485-96be2f750748/21c976ae-0077-bb1f-f97a-347b690e5e85.xml</include>
 	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="embeddedComponents" inline="true">	<key>3746b4d3-c9c9-8bf9-73cb-c0f9ee955192</key>
+	<value>Embedded Level 2 - Rich Text</value>
+<component id="3746b4d3-c9c9-8bf9-73cb-c0f9ee955192">
+	<content-type>/component/rich-text</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3746</objectGroupId>
+	<objectId>3746b4d3-c9c9-8bf9-73cb-c0f9ee955192</objectId>
+	<file-name>3746b4d3-c9c9-8bf9-73cb-c0f9ee955192.xml</file-name>
+	<internal-name>Embedded Level 2 - Rich Text</internal-name>
+	<copy>&lt;p&gt;Embedded Level 2 - Rich Text&lt;/p&gt;</copy>
+	<createdDate>2019-11-23T19:52:41.598Z</createdDate>
+	<createdDate_dt>2019-11-23T19:52:41.598Z</createdDate_dt>
+	<lastModifiedDate>2019-11-23T19:52:41.598Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-23T19:52:41.598Z</lastModifiedDate_dt>
+</component>
 	</item></col1>
 	<createdDate>2019-11-23T19:28:54.437Z</createdDate>
 	<createdDate_dt>2019-11-23T19:28:54.437Z</createdDate_dt>
-	<lastModifiedDate>2019-11-23T19:28:54.437Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-11-23T19:28:54.437Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-11-23T19:52:41.024Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-23T19:52:41.024Z</lastModifiedDate_dt>
 </component>

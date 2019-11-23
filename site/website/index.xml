@@ -16,13 +16,13 @@
 	<lastModifiedDate>2019-11-23T18:29:59.842Z</lastModifiedDate>
 	<lastModifiedDate_dt>2019-11-23T18:29:59.842Z</lastModifiedDate_dt>
 	<disabled>false</disabled>
-	<col1 item-list="true">	<item datasource="pageComponents">	<value>Shared Rich Text</value>
-	<key>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/b3a125f7-56e3-a4e1-0f11-6385cbd2d99a.xml</key>
-	<include>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/b3a125f7-56e3-a4e1-0f11-6385cbd2d99a.xml</include>
-	<disableFlattening>false</disableFlattening>
-	</item>	<item datasource="pageComponents">	<value>Rich Text New 2</value>
+	<col1 item-list="true">	<item datasource="pageComponents">	<value>Rich Text New 2</value>
 	<key>/site/component/item/4703/4703425b-84eb-ae39-9a52-9cca934c5715/6822155a-d767-34e6-b613-6399130a4bfd.xml</key>
 	<include>/site/component/item/4703/4703425b-84eb-ae39-9a52-9cca934c5715/6822155a-d767-34e6-b613-6399130a4bfd.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="pageComponents">	<value>Shared Rich Text</value>
+	<key>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/b3a125f7-56e3-a4e1-0f11-6385cbd2d99a.xml</key>
+	<include>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/b3a125f7-56e3-a4e1-0f11-6385cbd2d99a.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item>	<item datasource="embeddedComponents" inline="true">	<key>1117cf34-e2c0-03a9-10db-a117d7b0c73b</key>
 	<value>Embedded Rich Text</value>

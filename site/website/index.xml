@@ -16,15 +16,7 @@
 	<lastModifiedDate>2019-11-23T18:54:02.039Z</lastModifiedDate>
 	<lastModifiedDate_dt>2019-11-23T18:54:02.039Z</lastModifiedDate_dt>
 	<disabled>false</disabled>
-	<col1 item-list="true">	<item datasource="childComponents">	<value>Rich Text New 1</value>
-	<key>/site/component/item/4703/4703425b-84eb-ae39-9a52-9cca934c5715/3b7d3825-4f29-9e16-383e-4023405ed3c6.xml</key>
-	<include>/site/component/item/4703/4703425b-84eb-ae39-9a52-9cca934c5715/3b7d3825-4f29-9e16-383e-4023405ed3c6.xml</include>
-	<disableFlattening>false</disableFlattening>
-	</item>	<item datasource="pageComponents">	<value>Shared Rich Text</value>
-	<key>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/b3a125f7-56e3-a4e1-0f11-6385cbd2d99a.xml</key>
-	<include>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/b3a125f7-56e3-a4e1-0f11-6385cbd2d99a.xml</include>
-	<disableFlattening>false</disableFlattening>
-	</item>	<item datasource="embeddedComponents" inline="true">	<key>1c5280d9-f67f-d477-f9f8-8c0000d6a234</key>
+	<col1 item-list="true">	<item datasource="embeddedComponents" inline="true">	<key>1c5280d9-f67f-d477-f9f8-8c0000d6a234</key>
 	<value>Rich Text (Embedded)</value>
 <component id="1c5280d9-f67f-d477-f9f8-8c0000d6a234">
 	<content-type>/component/rich-text</content-type>
@@ -41,6 +33,14 @@
 	<lastModifiedDate>2019-11-23T18:54:02.730Z</lastModifiedDate>
 	<lastModifiedDate_dt>2019-11-23T18:54:02.730Z</lastModifiedDate_dt>
 </component>
+	</item>	<item datasource="childComponents">	<value>Rich Text New 1</value>
+	<key>/site/component/item/4703/4703425b-84eb-ae39-9a52-9cca934c5715/3b7d3825-4f29-9e16-383e-4023405ed3c6.xml</key>
+	<include>/site/component/item/4703/4703425b-84eb-ae39-9a52-9cca934c5715/3b7d3825-4f29-9e16-383e-4023405ed3c6.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="pageComponents">	<value>Shared Rich Text</value>
+	<key>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/b3a125f7-56e3-a4e1-0f11-6385cbd2d99a.xml</key>
+	<include>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/b3a125f7-56e3-a4e1-0f11-6385cbd2d99a.xml</include>
+	<disableFlattening>false</disableFlattening>
 	</item>	<item datasource="pageComponents">	<value>Drop Zone</value>
 	<key>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/4703425b-84eb-ae39-9a52-9cca934c5715.xml</key>
 	<include>/site/component/item/8d7f/8d7f21fa-5e09-00aa-8340-853b7db302da/4703425b-84eb-ae39-9a52-9cca934c5715.xml</include>
